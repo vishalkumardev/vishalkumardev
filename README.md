@@ -51,8 +51,6 @@ I'm a **React Native and full-stack developer** based in **Gurugram, Haryana, In
 
 ## 💻 Tech Stack
 
-**🔑 Main keywords:** `React Native` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Express.js` · `REST APIs` · `Microservices` · `RabbitMQ` · `Event-Driven Architecture` · `System Design` · `MongoDB` · `MySQL` · `Sequelize` · `Firebase` · `AWS` · `CI/CD` · `Fastlane` · `Docker` · `Redis` · `Zustand` · `TanStack Query` · `Redux` · `Razorpay` · `Mobile App Development` · `Full-Stack Development` · `SaaS`
-
 **Mobile**
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433e38?style=for-the-badge&logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
